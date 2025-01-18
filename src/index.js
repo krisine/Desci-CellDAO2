@@ -4,6 +4,7 @@
 	within the Vertex Shader code
 
 */
+import * as THREE from './three.min.js';
 
 var container = document.body;
 
